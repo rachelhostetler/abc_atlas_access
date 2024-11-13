@@ -1,4 +1,4 @@
-# Whole mouse brain 10Xv3 single cell transcriptomes
+# Zeng Aging Mouse 10Xv3 single cell transcriptomes
 
 The Mouse Aging dataset [Jin et al] is a comprehensive single-cell RNA
 sequencing (scRNA-seq) dataset containing ~1.2 million high-quality single-cell

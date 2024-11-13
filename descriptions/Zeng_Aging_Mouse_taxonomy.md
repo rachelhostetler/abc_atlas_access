@@ -1,4 +1,4 @@
-# Whole adult mouse brain taxonomy of cell types
+# Zeng Aging Mouse clustering and mapping to the WMB taxonomy of cell types
 
 The Mouse Aging dataset [Jin et al] is a comprehensive single-cell RNA
 sequencing (scRNA-seq) dataset containing ~1.2 million high-quality single-cell
