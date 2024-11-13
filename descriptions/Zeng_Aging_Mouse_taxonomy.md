@@ -4,8 +4,8 @@ The Mouse Aging dataset [Jin et al] is a comprehensive single-cell RNA
 sequencing (scRNA-seq) dataset containing ~1.2 million high-quality single-cell
 transcriptomes of brain cells from young adult and aged mice of both sexes,
 from regions spanning the forebrain, midbrain, and hindbrain. The 847 clusters
-identified in this dataset are presented here with mappings into the Whole
-Mouse Brain Taxonomy.
+identified in this dataset are presented here with mappings into the [Whole
+Mouse Brain Taxonomy](WMB-taxonomy.md).
 
 The associated metadata is hosted on AWS S3 bucket as a AWS Public Dataset:
 
@@ -16,7 +16,7 @@ The associated metadata is hosted on AWS S3 bucket as a AWS Public Dataset:
 Data is being share under the CC BY NC 4.0 license.
 
 Related resources :
-* Gene expression data and metadata [Zeng Aging Mouse 10Xv3](Zeng_Aging_Mouse_10Xv3))
+* Gene expression data and metadata ([Zeng Aging Mouse 10Xv3](Zeng_Aging_Mouse_10Xv3))
 
 Associated notebooks:
 * [**Getting started**](../notebooks/getting_started.ipynb): Learn how to use
